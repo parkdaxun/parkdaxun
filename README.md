@@ -5,6 +5,7 @@
 🙋🏻‍♀️ Me 🙋🏻‍♀️
 
 <a href="https://www.instagram.com/parkdaxun/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>  <a href="https://blog.naver.com/parkde0207"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkdaxun)](https://github.com/parkdaxun/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkdaxun)](https://github.com/parkdaxun/github-readme-stats)
