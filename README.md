@@ -12,5 +12,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkdaxun)](https://github.com/parkdaxun/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=michelle8781)](https://solved.ac/michelle8781)
-
-<img width="100%" src="https://img.extmovie.com/files/attach/images/135/894/150/010/1c8458183dd29a1a2e1570544b26b396.gif"/>
