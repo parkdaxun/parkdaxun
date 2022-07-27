@@ -1,5 +1,4 @@
 <div align = "center">
-  <h1>🤗 Have a good day too 🤗</h1>
   <h2>📑 Studying 📑</h2>
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
@@ -19,8 +18,4 @@
   </a> 
 
   ![parkdaxun's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkdaxun&show_icons=true&theme=dracula)
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=michelle8781)](https://solved.ac/michelle8781)
-
-
 </div>
