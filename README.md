@@ -11,5 +11,6 @@
   </div>
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
- 
-</div>
+  <br />
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=michelle8781)](https://solved.ac/michelle8781/)
+    </div>
