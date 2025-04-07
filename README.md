@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&color=FFDDFF&height=300&section=header&text=Not%20Perfect,%20But%20Better%20Than%20Yesterday&fontSize=30&fontColor=FFFFFF">
   
   <h3>About Me</h3>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  <a href="mailto:parkde0207@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://developerdaeun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
   
   <h3>Skills</h3>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
